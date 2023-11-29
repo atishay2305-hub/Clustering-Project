@@ -1,0 +1,6 @@
+comment_category_label,subject
+Bug Fix,5
+Documentation,489
+General Improvement,1
+Security,3
+Test Coverage,2
